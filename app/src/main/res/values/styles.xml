@@ -1,0 +1,29 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <!-- Header Text Size -->
+    <style name="activity_title">
+        <item name="android:textSize">@dimen/header_text_size</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <!-- Button Style -->
+    <style name="button_style">
+        <item name="android:textSize">@dimen/button_text_size</item>
+    </style>
+
+    <!-- Final TextView Style -->
+    <style name="final_text_view_style">
+        <item name="android:textSize">@dimen/final_text_size</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:shadowColor">@android:color/white</item>
+        <item name="android:shadowDx">2</item>
+        <item name="android:shadowDy">2</item>
+        <item name="android:shadowRadius">1</item>
+    </style>
+
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Intents</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity_one">First Activity</string>
+    <string name="activity_two">Second Activity</string>
+    <string name="activity_three">Third Activity</string>
+    <string name="activity_four">Fourth Activity</string>
+    <string name="button_text">Continue</string>
+    <string name="enter_anything">Enter anything here</string>
+    <string name="enter_anything_error">Enter anything in the "enter anything here" EditText before continuing</string>
+    <string name="title_activity_third">ThirdActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="enter_color">Enter a hex color here (AABBCC)</string>
+    <string name="enter_color_error">Hex color not in the correct format (AABBCC)</string>
+
+</resources>

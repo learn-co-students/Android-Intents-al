@@ -10,7 +10,7 @@ In Android, we are able to control this interaction through [Intents](http://dev
 For this lab, we'll be using intents to change activities, and also to send data between those activities.
 
 Instructions
-------------
+------
 
 - Fork + Clone the repo
 - Open the project up in Android Studio via the import tool

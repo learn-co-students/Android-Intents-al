@@ -22,3 +22,5 @@ Instructions
   * Use the `ThirdActivity.EXTRA_ANYTHING_TEXT` and `ThirdActivity.EXTRA_COLOR` as keys for the extras to be passed.
   * Use the data passed in the parameters `anythingInput` and `colorInput` as the values.
 
+
+<a href='https://learn.co/lessons/Android-Intents' data-visibility='hidden'>View this lesson on Learn.co</a>

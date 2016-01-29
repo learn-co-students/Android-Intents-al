@@ -23,4 +23,4 @@ Instructions
   * Use the data passed in the parameters `anythingInput` and `colorInput` as the values.
 
 
-<a href='https://learn.co/lessons/Android-Intents' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/Android-Intents' title='Android-Intents'>Android-Intents</a> on Learn.co and start learning to code for free.</p>
